@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExerciseList</string>
+    <string name="exercise_name">Exercise name</string>
+    <string name="move_name">Move name</string>
+    <string name="increase2_5kg">+2,5kg</string>
+    <string name="increase1kg">+1kg</string>
+    <string name="weight_count">10</string>
+    <string name="decrease1kg">-1kg</string>
+    <string name="decrease2_5kg">-2,5kg</string>
+    <string name="sets_text">SETS</string>
+    <string name="reps_text">REPS</string>
+    <string name="exercise_name_hint">Name</string>
+    <string name="move_name_hint">Move name</string>
+    <string name="exercise_item_title">Title</string>
+    <string name="move_item_title">Title</string>
+    <string name="weight_text">WEIGHT</string>
+    <string name="kg_text">kg</string>
+    <string name="reps_text_item">10</string>
+    <string name="sets_text_item">3</string>
+
+</resources>
